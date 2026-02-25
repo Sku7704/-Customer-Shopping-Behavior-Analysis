@@ -190,7 +190,9 @@ PostgreSQL	SQL Analysis
 Power BI	Dashboard Visualization
 
 👨‍💻 Author
+
 **Shashikant Upadhayay**
+
 Aspiring Data Analyst
 
 Connect with me on
